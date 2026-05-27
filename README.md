@@ -9,3 +9,13 @@ else
 
 Operador Ternário
     resultado = (b!=0) ? a/b: "divisão po zero"
+
+21/05/26
+
+Para casa: Estudar o 'do {}' e 'while{}'
+
+e
+
+'for(_;_;_;) {
+    comandos
+}'
